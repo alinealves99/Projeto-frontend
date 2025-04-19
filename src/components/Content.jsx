@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import listaImg from '../assets/ChatGPT.svg'
+import listaImg from '../assets/ChatGPT.png'
 import { Header } from './Header.jsx'
 import { Footer } from './Footer.jsx'
 
