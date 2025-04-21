@@ -8,7 +8,7 @@
 .projectsTitle {
   padding-top: 4rem;
   font-size: 2rem;
-  color: #ffffff;
+  color: #4f3339;
   text-align:center
 }
 
@@ -155,9 +155,9 @@
 
 
 .formButton {
-  background-color: #fff;
+  background-color: #4f3339;
   border: none;
-  color: #4f3339;
+  color: #fff;
   padding: 12px 32px;
   text-align: center;
   text-decoration: none;
