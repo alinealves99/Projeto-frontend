@@ -1,7 +1,6 @@
 .projectsContainer {
   width: 100%;
   background-color: #4f3339;
-  color: #ffffff; /* texto fora dos cards */
   text-align: center;
   padding-top: 2rem;
 }
@@ -10,7 +9,7 @@
   padding-top: 4rem;
   font-size: 2rem;
   color: #ffffff;
-  text-align: center;
+  text-align:center
 }
 
 .cardsContainer {
@@ -31,14 +30,12 @@
   flex-direction: column;
   gap: 3rem;
   font-size: 1.2rem;
-  background-color: #ffffff; /* fundo branco */
-  color: #4f3339; /* texto dentro do card */
-  border-radius: 4px;
 }
 
 .cardImage {
   width: 100%;
 }
+
 
 .cardsRepoContainer {
   display: flex;
@@ -51,7 +48,7 @@
 }
 
 .cardRepo {
-  background: #ffffff; /* fundo branco */
+  background: #fff;
   width: 30%;
   height: 80%;
   padding: 2rem;
@@ -62,10 +59,9 @@
   align-items: center;
   flex-direction: column;
   gap: 2rem;
-  color: #4f3339; /* texto dentro dos cards */
 }
 
-.cardRepoSummary {
+.cardRepoSummary{
   color: #4f3339;
   font-size: 1.2rem;
   padding: 2rem;
@@ -118,15 +114,14 @@
   }
 
   .cardRepo {
-    width: 320px; /* corrigido de 3200px para 320px */
+    width: 3200px;
   }
+
 }
 
 .formContainer {
   width: 100%;
   text-align: center;
-  background-color: #4f3339;
-  color: #ffffff; /* texto fora dos cards */
 }
 
 .form {
@@ -140,7 +135,15 @@
   flex-direction: column;
 }
 
-.formInput,
+.formInput {
+  width: 80%;
+  padding: 12px 32px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  margin-bottom: 1rem;
+}
+
 .formTextArea {
   width: 80%;
   padding: 12px 32px;
@@ -150,8 +153,9 @@
   margin-bottom: 1rem;
 }
 
+
 .formButton {
-  background-color: #ffffff;
+  background-color: #fff;
   border: none;
   color: #4f3339;
   padding: 12px 32px;
