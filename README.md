@@ -1,6 +1,6 @@
 # 👩‍🚀 Projeto Front-End: Mulheres Incríveis da Tecnologia
 
-Este é um projeto desenvolvido como parte do curso de Back-End ministrado pela professora **Simara Conceição**, realizado pela [Programaria](https://www.programaria.org/) O objetivo é integrar uma API desenvolvida em Node.js com um front-end estático.
+Este é um projeto desenvolvido como parte do curso de Back-End ministrado pela professora **Simara Conceição**, realizado pela [Programaria](https://www.programaria.org/). O objetivo é integrar uma API desenvolvida em Node.js com um front-end estático.
 
 A proposta do projeto é destacar mulheres inspiradoras da área de tecnologia, apresentando seus nomes, imagens, mini bios e citações motivadoras.
 
