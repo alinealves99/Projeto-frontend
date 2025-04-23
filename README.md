@@ -41,5 +41,5 @@ Este front-end está conectado à [API do projeto de back-end](https://github.co
 - Customizações e manutenção por: [Aline Alves](https://github.com/alinealves99)
 - Fontes das informações: [Wikipédia](https://www.wikipedia.org/)
 - Favicon criado com: [Canva](https://www.canva.com/)
-- Cabeçalho gerado com: ChatGPT
+- Imagem do cabeçalho gerado com: ChatGPT
 
